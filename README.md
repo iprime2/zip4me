@@ -2,7 +2,7 @@
 
 I have created this simple ecommerce webapp by using ReactJs, NodeJs, Express, MongoDB.
 
-Link to my webapp: https://sushil-krishil.on.fleek.co/
+Link to my webapp: https://zip4me.on.fleek.co/
 
 You can take a look at my webapp in the image below.
 
