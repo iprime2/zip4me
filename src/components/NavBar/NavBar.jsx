@@ -43,7 +43,7 @@ const NavBar = () => {
         </div>
         <div className='center'>
           <Link to='/' className='link'>
-            KRISHIL
+            zip4me
           </Link>
         </div>
         <div className='right'>
