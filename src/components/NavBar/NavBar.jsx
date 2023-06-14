@@ -52,7 +52,7 @@ const NavBar = () => {
               HomePage
             </Link>
           </div>
-          <div className='item'>
+         {/* <div className='item'>
             <Link to='/' className='link'>
               About
             </Link>
@@ -66,7 +66,7 @@ const NavBar = () => {
             <Link to='/' className='link'>
               Stores
             </Link>
-          </div>
+          </div> */}
           <div className='icons'>
             <SearchIcon />
             <PersonOutlineOutlinedIcon />
