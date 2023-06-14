@@ -47,6 +47,7 @@ const NavBar = () => {
           </Link>
         </div>
         <div className='right'>
+          {/* 
           <div className='item'>
             <Link to='/' className='link'>
               HomePage
@@ -66,7 +67,7 @@ const NavBar = () => {
             <Link to='/' className='link'>
               Stores
             </Link>
-          </div>
+          </div> */}
           <div className='icons'>
             <SearchIcon />
             <PersonOutlineOutlinedIcon />
